@@ -15,7 +15,8 @@ public class HelloWorld {
 //            System.out.println(list.get(i));
 //        }
 
-        Collections.sort(list,);
+        Collections.sort(list);
         list.forEach(value -> System.out.println(value));
+
     }
 }
